@@ -31,7 +31,7 @@ I'm a passionate Mobile App Developer with over **6 years of experience** in bui
 
 ## 📫 Let's Connect
 <p align="center">
-  <span>Write to me at <a href="mailto:mtbahauddin@gmail.com">mtbahauddin@gmail.com</a> | Check out my website at <a href="https://mtbahauddin.com">🌐 mtbahauddin.com 🙋‍♂️</a></span>
+  <span>Write to me at <a href="mailto:mtbahauddin@gmail.com">mtbahauddin@gmail.com</a> | Check out my website at <a href="https://portfolio.mtbahauddin.com">🌐 portfolio.mtbahauddin.com 🙋‍♂️</a></span>
   <br>
   <br>
   <a href="https://GitHub.com/tayyyab"><img src="https://img.shields.io/badge/GitHub-Tayyab-805ad5.svg?style=for-the-badge&logo=GitHub" alt="GitHub"></a>
