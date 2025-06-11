@@ -39,8 +39,6 @@ I'm a passionate Mobile App Developer with over **6 years of experience** in bui
 
 > 🗃️ Most of my professional work is hosted on private Bitbucket repositories in last few years.
 
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=tayyyab&custom_title=Muhammad%20Tayyab%20Bahauddin%20Github&count_private=true&include_all_commits=true&title_color=805ad5&icon_color=805ad5&text_color=474747&show_icons=true&hide=stars)
 ![Top Used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tayyyab&title_color=805ad5&icon_color=805ad5&text_color=474747&langs_count=10&layout=compact)
 
 ---
